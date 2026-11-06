@@ -1,0 +1,5 @@
+compiler.exe
+lexer.exe
+lex.yy.c
+parser.tab.c
+parser.tab.h
